@@ -77,3 +77,5 @@ item.nugget_silver.name=Silver Nugget
 item.nugget_tin.name=Tin Nugget
 item.nugget_zinc.name=Zinc Nugget
 item.nugget_lead.name=Lead Nugget
+
+entity.Villager.time_lord=Time Lord
