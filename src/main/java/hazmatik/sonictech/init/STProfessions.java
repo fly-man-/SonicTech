@@ -36,7 +36,7 @@ public class STProfessions
 			
 			System.out.println("Registering Villager Professions");
 			
-			registry.register(new VillagerProfession(Reference.MODID + ":the_doctor", Reference.MODID + "textures/entities/the_doctor.png", Reference.MODID + ":textures/entities/the_doctor.png"));
+			registry.register(new VillagerProfession(Reference.MODID + ":the_doctor", Reference.MODID + ":textures/entities/the_doctor.png", Reference.MODID + ":textures/entities/the_doctor.png"));
 		}
 	}
 	
